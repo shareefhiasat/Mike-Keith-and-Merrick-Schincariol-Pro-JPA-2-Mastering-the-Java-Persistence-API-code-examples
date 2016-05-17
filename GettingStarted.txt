@@ -1,3 +1,5 @@
+Sources from official site:
+http://www.apress.com/9781430219569
 
 These examples assume that you have installed Java SE 6 and Apache ant.
 
